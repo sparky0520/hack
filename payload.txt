@@ -1,0 +1,30 @@
+DELAY 2
+WINDOWS R
+DELAY 1
+STRING notepad.exe
+ENTER
+DELAY 1
+CONTROL T
+DELAY 1
+STRING ------------------------------
+ENTER
+STRING |  Hack Initiated by Sparky  |
+ENTER
+STRING ------------------------------
+ENTER
+DELAY 2
+STRING .
+ENTER
+DELAY 2
+STRING .
+ENTER
+DELAY 2
+STRING .
+ENTER
+DELAY 1
+WINDOWS X
+U
+DELAY 0.5
+U
+DELAY 0.5
+U
