@@ -10,4 +10,4 @@
 
 2. Clone the repo in the pico storage after connecting to your computer
 
-3. Disconnect and Reconnect the pico
+3. Disconnect and Reconnect the pico, enjoy ;)
