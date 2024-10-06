@@ -3,7 +3,7 @@
 
 # Setup 
 
-- To reset your Raspberry Pi Pico : https://github.com/dbisu/pico-ducky/blob/main/RESET.md
+#### To reset your Raspberry Pi Pico : https://github.com/dbisu/pico-ducky/blob/main/RESET.md
 
 1. First Install circuit python : https://circuitpython.org/board/raspberry_pi_pico/
 (Paste the uf2 in the pico, wait till it restarts)
